@@ -7,13 +7,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 </head>
 <body>
-    <nav class="navbar navbar-dark bg-dark">
-        <span class="navbar-brand mb-0 h1">RADHEN ADEBOS TUTORIAL</span>
+    <nav class="navbar navbar-dark bg-primary">
+        <span class="navbar-brand mb-0 h1">PENDAFTARAN PELATIHAN SISWA</span>
     </nav>
 
     <div class="container">
         <br>
-        <h4 class="text-center">DAFTAR PESERTA PELATIHAN</h4>
+        <h4 class="text-center">DAFTAR PESERTA </h4>
 
         <?php
         include "koneksi.php";
